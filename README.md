@@ -19,6 +19,7 @@ Created by Luca Marri
 2. In Maya, open the Script Editor and type the following command:
 
  from RenameTool_UI import renameTool
+ 
  renameTool.show_dialog()
 
  ---
